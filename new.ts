@@ -18,7 +18,7 @@ type teacher = {
     exp : number
 }
 let teacher1 : teacher = {
-    name : "Mrs Subhan",
+    name : "Mr Subhan",
     salary : 50.000,
     exp : 10
 }
